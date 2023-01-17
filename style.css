@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-section{
+    position: relative;
+}
+.mask6{
+position: absolute;
+top: 28px;
+left:1px;
+}
+.mask9{
+    position: absolute;
+    top: 170px;
+    left: 2px;
+}
+.mask8{
+    position: absolute;
+    top: -7px;
+    left: 137px;  
+}
+.mask11{
+position: absolute;
+top: 119px;
+left: 136px;
+}
+.mask7{
+    position: absolute;
+    top: 32px;
+    left: 280px;
+}
+.mask10{
+    position: absolute;
+    top: 165px;
+    left: 279px;
+}
+.mask-0{
+    position: absolute;
+    top: 32px;
+    left:1044px;    
+}
+.mask-3{
+    position: absolute;
+    top: 165px;
+    left: 1054px;   
+}
+.mask-2{
+    position: absolute;
+    top: 116px;
+    left: 1190px;    
+}
+.mask-5{
+    position: absolute;
+    top: 222px;
+    left: 1191px;    
+}
+.mask-1{
+    position: absolute;
+    top: 28px;
+    left: 1308px;   
+}
+.mask-4{
+    position: absolute;
+    top: 175px;
+    left: 1308px;   
+}
+.Group-chat{
+    font-size: 64px;
+}
+.group-paragraph{
+    font-size: 18px;
+}
+.blue-button{
+    background-color:#71C0D4;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 30px 10px 30px;
+    cursor: pointer;
+}
+.what-button{
+    background-color:#B18BDD;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 30px 10px 30px;
+    cursor: pointer;
+}
+.arrow1{
+margin-top: 100px;
+ position: absolute;   
+ top: 321px;
+ left: 660px
+}
+.arrow2{
+    margin-top: 100px;
+    position: absolute;   
+    top: 1238px;
+    left: 660px;
+   }
+.bitmap-bitmap{
+    margin-left: 150px;
+    margin-top: 200px;
+}
+.bitmap-copy, .bitmap-map{
+    margin-top: 200px;
+}
+.built-paragraph{
+    font-size: 16px;
+    color:#4D96A9;
+    font-weight: bold;
+}
+.send-paragraph{
+    margin-bottom: 200px;
+    color: #87879D;
+}
+.last-section{
+    background-image: url(background.png);
+    background-position:center;
+    background-size:cover;
+    height:200px;
+}
+.stay{
+    font-size: 18px;
+}
+.purple{
+    background-color:#B18BDD;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 30px 10px 30px;
+    cursor: pointer;    
+}
+
+    
